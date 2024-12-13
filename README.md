@@ -15,6 +15,34 @@ Olympic Event Data: The primary dataset is the "athlete_events.csv" which contai
 ### Tools
 
 - VS Code - Python - Used for exploratory analysis and data cleaning
-- PowerBI
+- PowerBI - Used for Visualize descriptive statistics
+
+---
 
 ### Data Cleaning/ Preparation
+
+Tasks included:
+- imported csv data into VS Code
+- Idenifying missing data
+
+---
+
+### Exploratory Data Analysis
+
+Key questions answered in EDA:
+
+- Country with most Gold Medals?
+- Althlete with most medals?
+- Oldest and youngest competing athlete?
+
+---
+
+### Data Analysis
+
+
+
+### Results/Findings
+
+### References
+
+- [National Olympic Committees](https://olympics.com/ioc/national-olympic-committees)
