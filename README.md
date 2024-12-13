@@ -4,6 +4,10 @@
 
 Perform exploratory data analysis for the Athlete Events (Olympics) datasets and provide descriptive summaries using plots, tables, and or visualizations.
 
+Olympic Dashboard![Olympic Dashboard](https://github.com/user-attachments/assets/48a5336f-20e1-45c3-9c75-9dacf277cbc1)
+
+
+
 ---
 
 ### Data Sources
